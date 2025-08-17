@@ -1,4 +1,3 @@
-https://mini-project-2-3w1q.onrender.com/
 UPI Payment Gateway Integration
 
 A production-ready implementation for integrating UPI (Unified Payments Interface) payments in web or mobile applications.
